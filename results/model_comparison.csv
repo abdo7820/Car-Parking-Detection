@@ -1,0 +1,4 @@
+Model,mAP50,mAP50-95,Precision,Recall,FPS,Size (MB),Status
+YOLOv8m pretrained,0.0001,0.0,0.0102,0.0013,43.8,52.0,Baseline
+YOLOv8n fine-tuned,0.8644,0.7584,0.9345,0.8139,133.6,6.2,Fast model
+YOLOv8m fine-tuned,0.8825,0.7717,0.9589,0.8064,43.8,52.0, Best model
