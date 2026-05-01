@@ -3,8 +3,6 @@
 > Real-time parking occupancy detection using **YOLOv8m** fine-tuned on a custom dataset.
 > Deployed with **FastAPI + Streamlit + Docker**.
 
-![Demo](results/sample_predictions.jpg)
-
 ---
 
 ## 📊 Results
@@ -207,4 +205,4 @@ streamlit run streamlit_app.py
 ## 👤 Author
 
 **Your Name**
-[LinkedIn](https://linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+[LinkedIn]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/abdulrah-manmohamed-yousry)) · [GitHub]([https://github.com/YOUR_USERNAME](https://github.com/abdo7820))
