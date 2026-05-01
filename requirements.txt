@@ -1,0 +1,14 @@
+# ── Core ──────────────────────────────────────────────────────────────────────
+ultralytics==8.3.0
+opencv-python-headless==4.10.0.84   # headless = no GUI deps, safe inside Docker
+numpy==1.26.4
+Pillow==10.4.0
+
+# ── Backend ───────────────────────────────────────────────────────────────────
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.12            # needed for FastAPI File() uploads
+
+# ── Frontend ──────────────────────────────────────────────────────────────────
+streamlit==1.38.0
+requests==2.32.3
