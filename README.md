@@ -131,8 +131,7 @@ User Browser
 
 Too large for GitHub — download from Google Drive:
 
-> **[best.pt — 52 MB]([https://drive.google.com/YOUR_LINK](https://drive.google.com/file/d/1iOsSWiUjLLzvlyeVkW7eOhL1TSsRKJr7/view?usp=drive_link))**
-
+🔗 Download Model: https://drive.google.com/file/d/1iOsSWiUjLLzvlyeVkW7eOhL1TSsRKJr7/view?usp=drive_link
 Place in `weights/` before running.
 
 ---
