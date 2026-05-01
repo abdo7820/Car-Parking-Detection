@@ -112,16 +112,6 @@ parking-detection/
 - PyTorch: 44.6 FPS · ONNX: 43.3 FPS on same GPU
 
 ---
-
-## 📈 Training Curves
-
-<div align="center">
-  <img src="results/PR_curve.png" width="45%"/>
-  <img src="results/confusion_matrix.png" width="45%"/>
-</div>
-
----
-
 ## 🐳 Docker Architecture
 
 ```
@@ -205,4 +195,6 @@ streamlit run streamlit_app.py
 ## 👤 Author
 
 **Your Name**
-[LinkedIn]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/abdulrah-manmohamed-yousry)) · [GitHub]([https://github.com/YOUR_USERNAME](https://github.com/abdo7820))
+🔗 **LinkedIn:** https://www.linkedin.com/in/abdulrah-manmohamed-yousry
+💻 **GitHub:** https://github.com/abdo7820
+
